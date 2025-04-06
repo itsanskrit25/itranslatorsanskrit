@@ -1,0 +1,27 @@
+# Sanskrit-I Translator 🌐📜
+
+A lightweight web-based translator that converts **English to Sanskrit** with **accurate diacritical marks** (IAST standard). Perfect for students, yogis, and scholars!
+
+[![GitHub Pages](https://img.shields.io/badge/Live_Demo-GitHub_Pages-blue?style=flat-square)](https://itsanskrit25.github.io/sanskrit-Itranslator/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+
+## Features ✨
+
+- **Precise Translations**: Hybrid rule-based + AI-enhanced Sanskrit output
+- **Diacritics Toggle**: Switch between Devanagari (शान्तिः) and Romanized (śāntiḥ)
+- **Clean Interface**: Optimized for readability with Times New Roman
+- **Offline-Friendly**: Basic translations work without internet
+- **Open Source**: Free to use and modify
+
+## How to Use 🚀
+
+1. Visit the [live demo](https://itsanskrit25.github.io/sanskrit-Itranslator/)
+2. Type English text (e.g., "peace")
+3. Get Sanskrit output with diacritics (e.g., "śāntiḥ")
+
+## Screenshot 📸
+![Screenshot](https://via.placeholder.com/800x400?text=Sanskrit+Translator+Preview)
+
+## Development 💻
+
+### File Structure
